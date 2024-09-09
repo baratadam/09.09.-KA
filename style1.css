@@ -1,0 +1,26 @@
+#tarolo1{
+    width: 800px;
+    height: 300px;
+    display: flex;
+    background-color: yellow;
+    justify-content: center;
+    align-items: center;
+
+}
+#tarolo1 :nth-child(1){
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    display: none;
+}
+#tarolo1 :nth-child(2){
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    display: none;
+}
+#tarolo1 :nth-child(3){
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+}
