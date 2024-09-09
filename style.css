@@ -1,0 +1,48 @@
+#tarolo1{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+#tarolo1 :nth-child(1){
+    background-color: green;
+}
+#tarolo1 :nth-child(2){
+    background-color: yellow;
+}
+#tarolo1 :nth-child(3){
+    background-color: purple;
+}
+#tarolo2{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+#tarolo2 :nth-child(1){
+    background-color: green;
+}
+#tarolo2 :nth-child(2){
+    background-color: yellow;
+}
+#tarolo2 :nth-child(3){
+    background-color: purple;
+}
+#tarolo3{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-content: space-between;
+}
+#tarolo3 :nth-child(1){
+    background-color: green;
+}
+#tarolo3 :nth-child(2){
+    background-color: yellow;
+}
+#tarolo3 :nth-child(3){
+    background-color: purple;
+}
